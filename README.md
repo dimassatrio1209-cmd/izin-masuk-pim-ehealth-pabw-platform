@@ -1,6 +1,6 @@
 # CONCEPT BLUEPRINT: E-HEALTH PLATFORM
 **Perancangan Konseptual Web Platform E-Health & Tele-Counseling Terpadu**  
-*Dokumen Arsitektur Sistem (Versi 1.4: Professional Production & Expo Ready)*
+*Dokumen Arsitektur Sistem
 
 ---
 
